@@ -2,7 +2,7 @@
 
 # Responsive website task
 
-Chceck live version of this project: LIVE
+Chceck live version of this project: **[LIVE](https://rafalkazik.github.io/task-html-and-css-basics/)**
 
 ## :technologist: Technologies and metodologies
 
